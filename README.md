@@ -1,5 +1,5 @@
-Important Links
-from 02
+# **Lecture 2: Large Language Model (LLMs) basics**
+
 https://poloclub.github.io/cnn-explainer/
 
 # **Lecture 3: Pretraining LLMs vs Finetuning LLMs**
