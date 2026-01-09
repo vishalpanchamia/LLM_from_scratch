@@ -4,8 +4,6 @@ https://poloclub.github.io/cnn-explainer/
 
 # **Lecture 3: Pretraining LLMs vs Finetuning LLMs**
 
-ghh
-
 [https://arxiv.org/pdf/2005.14165](https://arxiv.org/pdf/2005.14165)
 
 [https://openai.com/index/language-unsupervised/](https://openai.com/index/language-unsupervised/)
